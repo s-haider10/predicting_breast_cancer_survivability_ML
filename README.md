@@ -1,6 +1,6 @@
 # Predicting the survivability rate of breast cancer patients using Machine Learning 
 ## Courant Institute of Mathematical Sciences @ New York University 
-### Big Data Science with Prof Annasse Bari
+### Big Data Science with Prof Anasse Bari
 
 
 - In this project, we analyzed the Breast Cancer dataset and built machine learning models to predict the survival status of patients based on various features.
